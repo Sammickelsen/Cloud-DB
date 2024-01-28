@@ -4,8 +4,6 @@ A basic program that connects to Google Firebase's Firestore Database.  The prog
 
 This project was a chance for me to learn to use cloud databases as an option for data management in the future.  Having a simple cloud database allows me to understand how I can better apply one to a larger scale project
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
 [Software Demo Video](https://youtu.be/3KzIFXI2e3Y)
 
 # Cloud Database
